@@ -1,0 +1,38 @@
+.user {
+    padding: 30px;
+    margin: 10px auto;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 600px;
+    cursor: pointer;
+}
+
+.chartBox {
+    padding: 20px;
+    /* margin: 10px auto; */
+    border: 1px solid gray;
+}
+
+table {
+    width: 100%;
+}
+
+mat-grid-tile {
+    background: lightblue;
+}
+
+.userrow {
+    padding: 10px;
+    margin: 20px 20px 20px 0;
+    align-items: center;
+    height: 50%;
+}
+
+.container {
+    height: 300px;
+    min-width: 310px;
+    max-width: 100%;
+}
+
+
+/* Create two equal columns that floats next to each other */
